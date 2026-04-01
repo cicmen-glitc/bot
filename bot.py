@@ -4,7 +4,7 @@ import os
 import string
 from telebot import types
 
-TOKEN = '8735965774:AAEcfPKDyBxBLoIDDx2Js8l2Gw6c6WGuZdw'
+TOKEN = '...'
 bot = telebot.TeleBot(TOKEN)
 
 user_states = {}
